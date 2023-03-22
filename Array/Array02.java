@@ -1,5 +1,5 @@
 // 
-package exerciciosM1;
+package Array;
 
 import java.util.Scanner;
 

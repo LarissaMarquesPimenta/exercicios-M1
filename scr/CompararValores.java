@@ -1,4 +1,4 @@
-package exerciciosM1;
+package scr;
 
 import java.util.Scanner;
 //15/03

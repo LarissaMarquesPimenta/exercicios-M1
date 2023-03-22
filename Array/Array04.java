@@ -1,7 +1,7 @@
 /* 
  Ler uma matriz com notas de alunos, armazene as medias de cada um e exiba */
 
-package exerciciosM1;
+package Array;
 
 public class Array04 {
 
@@ -17,7 +17,7 @@ public class Array04 {
 						   {5.5, 3.5, 2.5, 1},
 						   {8, 9, 10, 9.5},
 						   {5.6, 5.8, 7, 3},
-						   {7.5, 8.5, 9.5, 10}};
+						   {7.5, 8.5, 9.5, 10}}; 
 		
 	for (int i = 0; i < 10; i++) {
 		media = 0; 
@@ -37,4 +37,4 @@ public class Array04 {
 	for(int a = 0; a < 10; a++) {
 		System.out.printf("%.2f \t", mediasAlunos[a]);
 }	}
-}
+	}

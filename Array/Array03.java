@@ -7,7 +7,7 @@ Elaborar um algoritmo que leia uma matriz 3x3 de inteiros e mostre:
  
  */
 
-package exerciciosM1;
+package Array;
 
 import java.util.Scanner;
 

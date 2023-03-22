@@ -1,6 +1,6 @@
 //15/03
 
-package exerciciosM1;
+package scr;
 
 import java.util.Scanner;
 
