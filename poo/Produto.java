@@ -56,7 +56,7 @@ public class Produto {
 		System.out.printf("\nDesenvolvedora: %s", desenvolvedor);
 		System.out.printf("\nValor: " + valor);
 		System.out.println("\nAno de lançamento: " + ano);
-	}
+	} 
 	
 	
 }
